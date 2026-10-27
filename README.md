@@ -1,25 +1,27 @@
-# CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Kevin Santiago Becerra Alavarez
+**Profesión:** _auxiliar de operaciones y desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [kevinalvarez2050@hotmail.com](kevinalvarez2050@hotmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Sudelec** _(2026 - Actualidad)_
+- operario de esmalte y operaciones en base.
 
-### **Empresa ABC** _(2018 - 2020)_
+### **5elements** _(2022 - 2025)_
 - Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
+### **SENA** _(Actualidad)_
+- análisis y desarrollo de software.
+- 
+## 🎓 Educación
+### **Colegio leon de greiff** _(2023)_
+- bachillerato academico y finalizacion.
+  
 ## 💡 Habilidades
 - **Habilidad 1**
 - **Habilidad 2**
